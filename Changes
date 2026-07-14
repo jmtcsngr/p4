@@ -1,6 +1,8 @@
 CHANGES LOG
 -----------
 
+ - update container versions of software - samtools (1.24), htslib (1.24)
+
 0.48.1
  - fix missing gnuplot in container, needed for plot-bamstats
 
